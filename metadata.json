@@ -1,0 +1,5 @@
+{
+  "name": "ZZMOTORS",
+  "description": "ZZMOTORS tərəfindən hazırlanan, şəkillərdən cədvəl məlumatlarını çıxarmaq və onları endirilə bilən Excel cədvəlinə çevirmək üçün Gemini API-dən istifadə edən süni intellektə əsaslanan bir tətbiq.",
+  "requestFramePermissions": []
+}
